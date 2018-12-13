@@ -1,5 +1,5 @@
 # ContaminaSeq 1.0
-A tool for assesing organims contamination in RNA-Seq data and HTS.
+A tool for asessing organims contamination in RNA-Seq data and HTS.
 
 AUTHOR AND INSTITUTION
 ==============
